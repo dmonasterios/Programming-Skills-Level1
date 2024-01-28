@@ -1,0 +1,5 @@
+excercise*/main.o
+excercise*/node_modules
+excercise*/package-lock.json
+excercise*/dist
+excercise*/.env
