@@ -1,0 +1,14 @@
+#!/usr/bin/env php
+<?php
+
+require __DIR__.'/../vendor/autoload.php';
+
+use Symfony\Component\Console\Application;
+use Blindma1den\Excercise4\Commands\App;
+use Blindma1den\Excercise4\Commands\Database;
+$application = new Application();
+
+$application->add(new App());
+$application->add(new Database());
+
+$application->run();

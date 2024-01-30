@@ -3,3 +3,5 @@ excercise*/node_modules
 excercise*/package-lock.json
 excercise*/dist
 excercise*/.env
+excercise*/vendor
+excercise*/composer.lock
