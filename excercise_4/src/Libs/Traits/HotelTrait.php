@@ -19,7 +19,6 @@ trait HotelTrait{
   ];
 
   private function getCostPerNight($room){
-    var_dump($this->roomsCost[$room]);
     return $this->roomsCost[$room];
   }
 
@@ -35,7 +34,6 @@ trait HotelTrait{
   private function getHotelsAvailable($hotels){
     $availableHotels = [];
     foreach($hotels as $hotel){
-      //var_dump($this->getRoomsAvailable($hotel));
       if(!empty($this->getRoomsAvailable($hotel))){
         $availableHotels[] = [
           "name" => $hotel["name"],
