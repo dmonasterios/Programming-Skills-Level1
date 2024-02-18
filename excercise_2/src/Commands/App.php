@@ -1,6 +1,6 @@
 <?php
 /*
-Level 1: Excersice 42from blindma1den discord server
+Level 1: Excersice 2 from blindma1den discord server
 
 2. A travel agency has a special offer for traveling in any season of 2024. Their destinations are:
 
