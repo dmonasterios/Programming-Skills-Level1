@@ -1,0 +1,47 @@
+[
+  {
+    "name":"Bruno Fernandes",
+    "jerseyNumber":8,
+    "goals":5,
+    "speedPoints":6,
+    "assistsPoints":9,
+    "passingAccuracy":10,
+    "defensiveInvolvements":3
+  },
+  {
+    "name":"Rasmus Hojlund",
+    "jerseyNumber":11,
+    "goals":12,
+    "speedPoints":8,
+    "assistsPoints":2,
+    "passingAccuracy":6,
+    "defensiveInvolvements":2
+  },
+  {
+    "name":"Harry Maguire",
+    "jerseyNumber":5,
+    "goals":1,
+    "speedPoints":5,
+    "assistsPoints":1,
+    "passingAccuracy":7,
+    "defensiveInvolvements":9
+  },
+  {
+    "name":"Alejandro Garnacho",
+    "jerseyNumber":17,
+    "goals":8,
+    "speedPoints":7,
+    "assistsPoints":8,
+    "passingAccuracy":6,
+    "defensiveInvolvements":0
+  },
+  {
+    "name":"Mason Mount",
+    "jerseyNumber":7,
+    "goals":2,
+    "speedPoints":6,
+    "assistsPoints":4,
+    "passingAccuracy":8,
+    "defensiveInvolvements":1
+  }
+]
